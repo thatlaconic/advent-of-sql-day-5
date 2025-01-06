@@ -6,7 +6,7 @@ Santa said that the toy production numbers have been fluctuating over the past f
 He needs a detailed analysis of their daily toy production to understand these trends. Maybe then they can identify any issues and ensure that every child receives a gift on Christmas morning
 
 ## Challenge
-[Download Challenge data](
+[Download Challenge data](https://github.com/thatlaconic/advent-of-sql-day-5/blob/main/advent_of_sql_day_5.sql)
 
 Using the provided schema and data, write a SQL query that analyzes the daily toy production trends for each date in the table, comparing a date to the date before. The query should accomplish the following:
 
@@ -31,10 +31,10 @@ SELECT *
 FROM toy_production ;
 ```
 **output**
-![](https://github.com/thatlaconic/advent-of-sql-day-4/blob/main/toy_production.PNG)
+![](https://github.com/thatlaconic/advent-of-sql-day-5/blob/main/day5.PNG)
 
 ### Solution
-[Download Solution Code](https://github.com/thatlaconic/advent-of-sql-day-4/blob/main/advent_answer_day4.sql)
+[Download Solution Code](https://github.com/thatlaconic/advent-of-sql-day-5/blob/main/advent_answer_day5.sql)
 
 **input**
 ```sql
@@ -51,7 +51,7 @@ ORDER BY 5 DESC ;
 ```
 **output**
 
-![](
+![](https://github.com/thatlaconic/advent-of-sql-day-5/blob/main/DAY5_ANSWER.PNG)
 
 
 

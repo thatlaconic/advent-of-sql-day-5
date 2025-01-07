@@ -31,6 +31,7 @@ SELECT *
 FROM toy_production ;
 ```
 **output**
+
 ![](https://github.com/thatlaconic/advent-of-sql-day-5/blob/main/day5.PNG)
 
 ### Solution
